@@ -22,17 +22,10 @@
 }
 
 .sl-wrapper {
-  background: rgba(46, 47, 66, 0.8);
+  background: #2e2f42cc;
 }
-
+.sl-wrapper .sl-close,
+.sl-wrapper .sl-counter,
 .sl-wrapper .sl-navigation button {
-  color: #fff;
-}
-
-.sl-wrapper .sl-close {
-  color: #fff;
-}
-
-.sl-wrapper .sl-counter {
   color: #fff;
 }
